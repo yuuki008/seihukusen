@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>西福戦紹介ページ</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
